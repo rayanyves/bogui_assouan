@@ -1,0 +1,27 @@
+ body{
+ 	background-color:rgb(230,230,230);
+ 	color: rgb(30,30,30);
+ 	font-family: courier;
+ }
+
+ h1,h2 {
+ 	color: green;
+ 	font-family: helvetica;
+ 	font-weight: 50;
+ 	letter-spacing: 5px;
+ 	font-size: 10;
+ 	text-transform: uppercase;
+ }
+
+a{
+	text-decoration: none;
+	color: red;
+}
+a:hover{
+	color: yellow;
+}
+
+
+
+
+
